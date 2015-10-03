@@ -1,0 +1,21 @@
+{
+  "name": "jq-editable",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cizar/jq-editable",
+  "authors": [
+    "Cesar Kastli <cesarkastli@gmail.com>"
+  ],
+  "description": "Asynchronous jQuery in-place edit plugin",
+  "main": "src/jquery.editable.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
